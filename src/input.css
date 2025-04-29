@@ -1,1 +1,92 @@
 @import "tailwindcss";
+.chat::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+  background-color: #364153;
+}
+
+.chat::-webkit-scrollbar
+{
+  width: 10px;
+  background-color: #364153;
+}
+
+.chat::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #1e2939;
+}
+
+
+
+
+
+
+.sidebar-users::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+  background-color: #364153;
+}
+
+.sidebar-users::-webkit-scrollbar
+{
+  width: 10px;
+  background-color: #364153;
+}
+
+.sidebar-users::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #1e2939;
+}
+
+
+
+.hashtag-bar::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+  background-color: #364153;
+}
+
+.hashtag-bar::-webkit-scrollbar
+{
+  width: 10px;
+  background-color: #364153;
+}
+
+.hashtag-bar::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #1e2939;
+}
+
+
+
+
+
+
+.channel-bar::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  border-radius: 10px;
+  background-color: #364153;
+}
+
+.channel-bar::-webkit-scrollbar
+{
+  width: 10px;
+  background-color: #364153;
+}
+
+.channel-bar::-webkit-scrollbar-thumb
+{
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+  background-color: #1e2939;
+}
